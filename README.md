@@ -54,7 +54,7 @@ Ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Kangetheee/michoro_portfolio.git
-   cd portfolio-website
+   cd michoro_portfolio
    ```
 
 2. Install dependencies:
